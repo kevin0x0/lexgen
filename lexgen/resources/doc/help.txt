@@ -1,0 +1,9 @@
+Usage:
+  lexgen [ opt [opt-value] | <key>=<value> ]...
+
+Options:
+  -h | --help                       Show this message.
+  -i | --in                         Input file path.
+  -o <path> | --out <path>          Output file path.
+  -t <path> | --tmpl <path>         Specify template file for generating source
+                                    file.
